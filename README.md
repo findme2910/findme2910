@@ -1,4 +1,5 @@
 Hi there, I'm Thai Son! 👋
+
 IT Graduate from Nong Lam University specializing in Web Development and Backend systems.
 
 <!--
