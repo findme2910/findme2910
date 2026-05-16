@@ -1,5 +1,5 @@
-### Hi there 👋
-I am studying at Nong Lam University
+Hi there, I'm Thai Son! 👋
+IT Graduate from Nong Lam University specializing in Web Development and Backend systems.
 
 <!--
 **findme2910/findme2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
